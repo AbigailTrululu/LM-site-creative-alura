@@ -14,9 +14,25 @@
 
 }
 
-.cabeçalho-lista-item{
+.cabeçalho-lista-item {
     display: inline-block;
     margin: 0 16px;
     font-style: normal;
     font-size: 15px;
+}
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#4676D3, #B4BAF0);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-div-conteudo{
+    width: 35%;
 }
